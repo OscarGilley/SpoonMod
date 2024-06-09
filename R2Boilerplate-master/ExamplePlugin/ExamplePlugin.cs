@@ -151,7 +151,7 @@ namespace ExamplePlugin
         {
             var inventoryTarget = typeof(RoR2.UI.ItemInventoryDisplay).GetMethod(nameof(RoR2.UI.ItemInventoryDisplay.UpdateDisplay), System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.Instance);
             var inventoryDest = typeof(ExamplePlugin).GetMethod(nameof(UpdateDisplayOverride), System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
-            var scrapperTarget = typeof(RoR2.PickupPickerController).GetMethod(nameof(RoR2.UI.PickupPickerPanel.SetPickupOptions), System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+            var scrapperTarget = typeof(RoR2.PickupPickerController).GetMethod(nameof(RoR2.PickupPickerController.OnDisplay), System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
             var scrapperDest = typeof(ExamplePlugin).GetMethod(nameof(OnDisplayBeginOverride), System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
 
             inventoryHook = new Hook(inventoryTarget, inventoryDest, this);
