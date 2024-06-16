@@ -1,0 +1,13 @@
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\bin\Debug\netstandard2.0\ItemSortMod.deps.json
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\bin\Debug\netstandard2.0\ItemSortMod.dll
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\bin\Debug\netstandard2.0\ItemSortMod.pdb
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\bin\Debug\netstandard2.0\RiskOfOptions.dll
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\bin\Debug\netstandard2.0\RiskOfOptions.pdb
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.csproj.AssemblyReference.cache
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.GeneratedMSBuildEditorConfig.editorconfig
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.AssemblyInfoInputs.cache
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.AssemblyInfo.cs
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.csproj.CoreCompileInputs.cache
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.csproj.CopyComplete
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.dll
+E:\ror2mod\R2Boilerplate-master\ItemSortMod\obj\Debug\netstandard2.0\ItemSortMod.pdb
