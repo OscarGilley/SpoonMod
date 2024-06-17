@@ -15,9 +15,6 @@ using RiskOfOptions.Options;
 using BepInEx.Configuration;
 using R2API.Utils;
 using RiskOfOptions.OptionConfigs;
-using On.RoR2.UI;
-using static Rewired.InputMapper;
-using UnityEngine.UIElements;
 
 namespace ItemSortMod
 {
@@ -34,8 +31,8 @@ namespace ItemSortMod
     public class ItemSortMod : BaseUnityPlugin
     {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginAuthor = "Oscar Gilley";
-        public const string PluginName = "Item Sorting Mod";
+        public const string PluginAuthor = "OscarGilley";
+        public const string PluginName = "ItemSortingMod";
         public const string PluginVersion = "1.0.0";
 
         private static Hook inventoryHook;
